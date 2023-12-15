@@ -1,0 +1,21 @@
+# main links links
+main:
+
+  - title: "RESEARCH"
+    url: /portfolio/
+    
+  - title: "PUBLICATIONS"
+    url: /publications/
+
+  - title: "TALKS"
+    url: /talks/    
+
+  - title: "TEACHING"
+    url: /teaching/    
+    
+        
+  - title: "POSTS"
+    url: /year-archive/
+    
+
+    
