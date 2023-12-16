@@ -18,11 +18,11 @@ Current research interests include electronic packaging, reliability analysis of
 <br>
 Other research interests include: 
 <br>
-          • Surfaces and interfaces of electronics interconnects    
-          • WBG Power electronics   
-          • Electronics for harsh environments  
-          • Bonding technology       
-          • Microelectronics manufacturing process simulation  
+          Surfaces and interfaces of electronics interconnects    
+          WBG Power electronics   
+          Electronics for harsh environments  
+          Bonding technology       
+          Microelectronics manufacturing process simulation  
 
 
 
