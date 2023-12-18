@@ -56,7 +56,7 @@ href="https://ieeexplore.ieee.org/document/8429833">link</a>></li></ol>
 href="https://ieeexplore.ieee.org/document/8546386">link</a>></li></ol>
 
 
-<ol start="11"> <li> Zhou, J., Wei, C., <b>Liang, S.</b>, Jiang, H., Ma, X., Zhang, X. (2018). Three-dimensional simulation of the effects of Cu protrusion of Cu-filled TSVs on thermal fatigue behavior of micro-bump joints in 3D integration. <i><b>19th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 361-366. ,<<a
+<ol start="11"> <li> Zhou, J., Wei, C., <b>Liang, S.</b>, Jiang, H., Ma, X., Zhang, X. (2018). Three-dimensional simulation of the effects of Cu protrusion of Cu-filled TSVs on thermal fatigue behavior of micro-bump joints in 3D integration. <i><b>19th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 361-366. <<a
 href="https://ieeexplore.ieee.org/document/8480623">link</a>></li></ol>
 
 
