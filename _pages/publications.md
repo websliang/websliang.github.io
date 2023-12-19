@@ -37,7 +37,7 @@ author_profile: false
 ### 2022
 
 
-<ol start="25"> <li> Jiang, H., <b>Liang, S.</b>, Wei, C., Kunwar, A., Subedi, U., Jiang, H. Physically Informed Data-Driven Approach to Unravel the Orientation In fluenced Growth Behaviour of Interfacial Cu6sn5 Intermetallics Under Electric Current Stressing. <i><b>SSRN Electronic Journal</b></i>. <<a
+<ol start="25"> <li> <b>Liang, S.</b>, Wei, C., Kunwar, A., Subedi, U., Jiang, H., Ke, C. Physically Informed Data-Driven Approach to Unravel the Orientation In fluenced Growth Behaviour of Interfacial Cu6sn5 Intermetallics Under Electric Current Stressing. <i><b>SSRN Electronic Journal</b></i>. <<a
 href="https://www.researchgate.net/publication/367723777_Physically_Informed_Data-Driven_Approach_to_Unravel_the_Orientation_Influenced_Growth_Behaviour_of_Interfacial_Cu6sn5_Intermetallics_Under_Electric_Current_Stressing">link</a>></li></ol>
 
 
