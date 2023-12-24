@@ -276,6 +276,6 @@ href="https://ieeexplore.ieee.org/document/6922737">link</a>></li></ol>
 
 ## PhD thesis
 ------
-  <div class="navbar-inner">
-  <li> <b>Liang, S.</b> (2019). Phase Field Study of the Microstructure Evolution and Its Influence on Reliability of Microscale Interconnects under Electro-thermo-mechanical Loads. <i><b>PhD thesis, South China University of Technology</b></i>. </li>
+  <div style="padding-left: 2em">
+  <p> <b>Liang, S.</b> (2019). Phase Field Study of the Microstructure Evolution and Its Influence on Reliability of Microscale Interconnects under Electro-thermo-mechanical Loads. <i><b>PhD thesis, South China University of Technology</b></i>. </p>
   </div>
