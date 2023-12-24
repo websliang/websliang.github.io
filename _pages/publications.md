@@ -157,7 +157,7 @@ href="https://www.ams.org.cn/EN/10.11900/0412.1961.2014.00525">link</a>></li></o
 
 
 
-## Conference papers
+## Conference papers and presentations
 ------
 
 ### 2022
@@ -273,3 +273,7 @@ href="https://ieeexplore.ieee.org/document/7236597">link</a>></li></ol>
 
 <ol start="1"> <li> <b>Liang, S.</b>, Ke, C., Ma, W., Zhou, M., Zhang, X. (2014). Phase field simulation of Kirkendall voids at the interface of microscale Sn/Cu system lead-free interconnects. <i><b>15th International Conference on Electronic Packaging Technology</b></i>, 641-645. <<a
 href="https://ieeexplore.ieee.org/document/6922737">link</a>></li></ol>
+
+## PhD thesis
+------
+<ol  <li> <b>Liang, S.</b> (2019). Phase Field Study of the Microstructure Evolution and Its Influence on Reliability of Microscale Interconnects under Electro-thermo-mechanical Loads. <i><b>PhD thesis, South China University of Technology</b></i>. </li></ol>
