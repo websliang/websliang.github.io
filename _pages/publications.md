@@ -18,7 +18,7 @@ author_profile: false
 
 ### 2024
 
-<ol start="32"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z.,Xu, Y., & Song, K. (2023). Investigating the preferential growth of Bi grains in Sn-Bi based solder under thermal aging. <i><b>Journal of Materials Research and Technology</b></i>. <<a href="https://www.sciencedirect.com/science/article/pii/S2238785423033434">link</a>></li></ol>
+<ol start="32"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z.,Xu, Y., & Song, K. (2024). Investigating the preferential growth of Bi grains in Sn-Bi based solder under thermal aging. <i><b>Journal of Materials Research and Technology</b></i>. <<a href="https://www.sciencedirect.com/science/article/pii/S2238785423033434">link</a>></li></ol>
 
 
 
