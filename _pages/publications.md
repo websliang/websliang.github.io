@@ -19,12 +19,12 @@ author_profile: false
 ### 2024
 
 
-<ol start="32"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z., & Ramachandran, S. (2024). Insights Into the Grain Orientation Effect on Electromigration-Induced Failure in Solder Interconnects Through Phase Field Modeling. <i><b>IEEE Transactions on Electron Devices</b></i>. <<a href="https://ieeexplore.ieee.org/abstract/document/10239697?casa_token=MdkCjVoYMO8AAAAA:2ecLNZSHgAmBkk7DTFfZX_w_33erna_w3knGwwcGyZSf-Rjme1xgt_2jKCmrKV69gqVk_T126g">link</a>></li></ol>
+<ol start="32"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z., & Ramachandran, S. (2024). Insights Into the Grain Orientation Effect on Electromigration-Induced Failure in Solder Interconnects Through Phase Field Modeling. <i><b>IEEE Transactions on Electron Devices</b></i>, 71, 192-199. <<a href="https://ieeexplore.ieee.org/abstract/document/10239697?casa_token=MdkCjVoYMO8AAAAA:2ecLNZSHgAmBkk7DTFfZX_w_33erna_w3knGwwcGyZSf-Rjme1xgt_2jKCmrKV69gqVk_T126g">link</a>></li></ol>
 
-<ol start="31"> <li> <b>Liang, S.</b>, Jiang, H., & Huang, J. (2024). Study on Phase Electromigration and Segregation Behavior of Cu-Cored Sn-58Bi Solder Interconnects under Electric Current Stressing. <i><b>Journal of Electronic Materials</b></i>. <<a href="https://link.springer.com/article/10.1007/s11664-023-10853-5">link</a>></li></ol>
+<ol start="31"> <li> <b>Liang, S.</b>, Jiang, H., & Huang, J. (2024). Study on Phase Electromigration and Segregation Behavior of Cu-Cored Sn-58Bi Solder Interconnects under Electric Current Stressing. <i><b>Journal of Electronic Materials</b></i>, 53, 1192-1200. <<a href="https://link.springer.com/article/10.1007/s11664-023-10853-5">link</a>></li></ol>
 
 
-<ol start="30"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z.,Xu, Y., & Song, K. (2024). Investigating the preferential growth of Bi grains in Sn-Bi based solder under thermal aging. <i><b>Journal of Materials Research and Technology</b></i>. <<a href="https://www.sciencedirect.com/science/article/pii/S2238785423033434">link</a>></li></ol>
+<ol start="30"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z.,Xu, Y., & Song, K. (2024). Investigating the preferential growth of Bi grains in Sn-Bi based solder under thermal aging. <i><b>Journal of Materials Research and Technology</b></i>, 28, 4152-4161. <<a href="https://www.sciencedirect.com/science/article/pii/S2238785423033434">link</a>></li></ol>
 
 
 
