@@ -18,19 +18,22 @@ author_profile: false
 
 ### 2024
 
-<ol start="32"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z.,Xu, Y., & Song, K. (2024). Investigating the preferential growth of Bi grains in Sn-Bi based solder under thermal aging. <i><b>Journal of Materials Research and Technology</b></i>. <<a href="https://www.sciencedirect.com/science/article/pii/S2238785423033434">link</a>></li></ol>
 
+<ol start="32"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z., & Ramachandran, S. (2024). Insights Into the Grain Orientation Effect on Electromigration-Induced Failure in Solder Interconnects Through Phase Field Modeling. <i><b>IEEE Transactions on Electron Devices</b></i>. <<a href="https://ieeexplore.ieee.org/abstract/document/10239697?casa_token=MdkCjVoYMO8AAAAA:2ecLNZSHgAmBkk7DTFfZX_w_33erna_w3knGwwcGyZSf-Rjme1xgt_2jKCmrKV69gqVk_T126g">link</a>></li></ol>
+
+<ol start="31"> <li> <b>Liang, S.</b>, Jiang, H., & Huang, J. (2024). Study on Phase Electromigration and Segregation Behavior of Cu-Cored Sn-58Bi Solder Interconnects under Electric Current Stressing. <i><b>Journal of Electronic Materials</b></i>. <<a href="https://link.springer.com/article/10.1007/s11664-023-10853-5">link</a>></li></ol>
+
+
+<ol start="30"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z.,Xu, Y., & Song, K. (2024). Investigating the preferential growth of Bi grains in Sn-Bi based solder under thermal aging. <i><b>Journal of Materials Research and Technology</b></i>. <<a href="https://www.sciencedirect.com/science/article/pii/S2238785423033434">link</a>></li></ol>
 
 
 
 ### 2023
 
-<ol start="31"> <li> <b>Liang, S.</b>, Jiang, H., & Huang, J. (2023). Study on Phase Electromigration and Segregation Behavior of Cu-Cored Sn-58Bi Solder Interconnects under Electric Current Stressing. <i><b>Journal of Electronic Materials</b></i>. <<a href="https://link.springer.com/article/10.1007/s11664-023-10853-5">link</a>></li></ol>
-
-<ol start="30"> <li> <b>Liang, S.</b>, Liu, C., Jiang, H., & Zhong, Z. (2023). Investigation of Electric-thermal-mechanical Effects in Electric Assisted Silver Sintering Process through Phase Field Modelling. <i><b>IEEE Transactions on Components, Packaging and Manufacturing Technology</b></i>. <<a href="https://ieeexplore.ieee.org/abstract/document/10295485?casa_token=hVZOxTe8uhYAAAAA:IxuVUJvk0SjXYn1NRriqb_hKd467ZhY9EPDvA4k_eT-L4xnG8bbzlHUVAZLGvFJ3fnWmzkSM3Q">link</a>></li></ol>
 
 
-<ol start="29"> <li> <b>Liang, S.</b>, Jiang, H., Zhong, Z., & Ramachandran, S. (2023). Insights Into the Grain Orientation Effect on Electromigration-Induced Failure in Solder Interconnects Through Phase Field Modeling. <i><b>IEEE Transactions on Electron Devices</b></i>. <<a href="https://ieeexplore.ieee.org/abstract/document/10239697?casa_token=MdkCjVoYMO8AAAAA:2ecLNZSHgAmBkk7DTFfZX_w_33erna_w3knGwwcGyZSf-Rjme1xgt_2jKCmrKV69gqVk_T126g">link</a>></li></ol>
+<ol start="29"> <li> <b>Liang, S.</b>, Liu, C., Jiang, H., & Zhong, Z. (2023). Investigation of Electric-thermal-mechanical Effects in Electric Assisted Silver Sintering Process through Phase Field Modelling. <i><b>IEEE Transactions on Components, Packaging and Manufacturing Technology</b></i>. <<a href="https://ieeexplore.ieee.org/abstract/document/10295485?casa_token=hVZOxTe8uhYAAAAA:IxuVUJvk0SjXYn1NRriqb_hKd467ZhY9EPDvA4k_eT-L4xnG8bbzlHUVAZLGvFJ3fnWmzkSM3Q">link</a>></li></ol>
+
 
 
 <ol start="28"> <li> Zhang, L., Zhao, H., <b>Liang, S.</b>, & Liu, C. (2023). Heat transfer in phase change materials for integrated batteries and power electronics systems. <i><b>Applied Thermal Engineering</b></i>, 120997. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431123010268?casa_token=0LIdKms0-ZUAAAAA:vfgwLr-hZwUBA5OX33hJXSgbzaqzJfBG3tVcP1KNFhbaB4-j2X_myfvd1HnGyUNmgv4CBjmMNw">link</a>></li></ol>
