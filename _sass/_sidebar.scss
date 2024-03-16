@@ -83,11 +83,11 @@
   }
 
   img {
-    max-width: 90px;
+    max-width: 95px;
   //  border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 2px;
+      padding: 1px;
       border: 1px solid $border-color;
     }
   }
