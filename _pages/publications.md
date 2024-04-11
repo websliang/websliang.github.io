@@ -164,7 +164,7 @@ href="https://www.sciencedirect.com/science/article/pii/S0026271417300434">link<
 ### 2015
 
 
-<ol start="1"> <li> Ma, W., Ke, C., Zhou, M., <b>Liang, S.</b>, Zhang, X.P. (2015). Phase-field crystal simulation on evolu-tion and growth kinetics of kirkendall voids in interface and intermetallic compound layer in sn/cu soldering system. <i><b>Acta Metallurgica Sinica</b></i>, 873-882. <<a
+<ol start="1"> <li> Ma, W., Ke, C., Zhou, M., <b>Liang, S.</b>, Zhang, X.P. (2015). Phase-field crystal simulation on evolu-tion and growth kinetics of kirkendall voids in interface and intermetallic compound layer in Sn/Cu soldering system. <i><b>Acta Metallurgica Sinica</b></i>, 873-882. <<a
 href="https://www.ams.org.cn/EN/10.11900/0412.1961.2014.00525">link</a>></li></ol>
 
 
