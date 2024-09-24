@@ -19,9 +19,9 @@ author_profile: false
 ### 2024
 
 
+<ol start="33"> <li> H. Jiang, <b>S. Liang</b>, Y. Xu, S. Ramachandran, (2024). Investigation of Effects of Porosity and Coarsening on Thermal and Mechanical Properties of Sintered Silver Die Attachment. <i><b>IEEE Transactions on Electron Devices</b></i>, 71(9), 5603 - 5608. <<a href="https://ieeexplore.ieee.org/document/10589297">link</a>></li></ol>
+
 <ol start="32"> <li> <b>S. Liang</b>, H. Jiang, Z. Zhong, S. Ramachandran, (2024). Insights Into the Grain Orientation Effect on Electromigration-Induced Failure in Solder Interconnects Through Phase Field Modeling. <i><b>IEEE Transactions on Electron Devices</b></i>, 71, 192-199. <<a href="https://ieeexplore.ieee.org/abstract/document/10239697?casa_token=MdkCjVoYMO8AAAAA:2ecLNZSHgAmBkk7DTFfZX_w_33erna_w3knGwwcGyZSf-Rjme1xgt_2jKCmrKV69gqVk_T126g">link</a>></li></ol>
-
-
 
 
 <ol start="31"> <li> <b>S. Liang</b>, H. Jiang, J. Huang, (2024). Study on Phase Electromigration and Segregation Behavior of Cu-Cored Sn-58Bi Solder Interconnects under Electric Current Stressing. <i><b>Journal of Electronic Materials</b></i>, 53, 1192-1200. <<a href="https://link.springer.com/article/10.1007/s11664-023-10853-5">link</a>></li></ol>
@@ -173,6 +173,18 @@ href="https://www.ams.org.cn/EN/10.11900/0412.1961.2014.00525">link</a>></li></o
 
 ## Conference papers and presentations
 ------
+
+### 2024
+
+
+<ol start="24"> <li> <b>S. Liang</b>, W. Li, H. Jiang, Z. Guo, Z. Zhong, (2024). Effect of Phase Evolution on Inhomogeneous Deformation and Fracture Behavior in Sn-Bi Solder Alloys. <i><b> IEEE 2024 International Conference on Electronics Packaging (ICEP)</b></i>, 161-162. <<a
+href="https://ieeexplore.ieee.org/abstract/document/10535626">link</a>></li></ol>
+
+
+<ol start="23"> <li> H. Jiang, <b>S. Liang</b>, C. Liu, (2024). Simulation Study of Pore Structure Evolution and its Influences on the Properties of Sintered Silver. <i><b> IEEE 2024 International Conference on Electronics Packaging (ICEP)</b></i>, 159-160. <<a
+href="https://ieeexplore.ieee.org/abstract/document/10535609">link</a>></li></ol>
+
+
 
 ### 2022
 
