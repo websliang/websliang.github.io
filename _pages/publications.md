@@ -179,7 +179,7 @@ href="https://www.ams.org.cn/EN/10.11900/0412.1961.2014.00525">link</a>></li></o
 ### 2024
 
 
-<ol start="25"> <li> Z. Guo, <b>S. Liang</b>, H. Jiang, Z. Zhong, K. Song, Y. Xu, (2024). Effect of Sintered Silver Phase Coarsening on the Fatigue Characteristics of SiC Power Modules. <i><b> 2024 25th International Conference on Electronic Packaging Technology (ICEPT)</b></i>. <<a
+<ol start="25"> <li> Z. Guo, <b>S. Liang</b>, H. Jiang, Z. Zhong, K. Song, Y. Xu, (2024). Effect of Sintered Silver Phase Coarsening on the Fatigue Characteristics of SiC Power Modules. <i><b> IEEE 25th International Conference on Electronic Packaging Technology (ICEPT)</b></i>. <<a
 href="https://ieeexplore.ieee.org/document/10668422">link</a>></li></ol>
 
 
