@@ -174,7 +174,13 @@ href="https://www.ams.org.cn/EN/10.11900/0412.1961.2014.00525">link</a>></li></o
 ## Conference papers and presentations
 ------
 
+
+
 ### 2024
+
+
+<ol start="25"> <li> Z. Guo, <b>S. Liang</b>, H. Jiang, Z. Zhong, K. Song, Y. Xu, (2024). Effect of Sintered Silver Phase Coarsening on the Fatigue Characteristics of SiC Power Modules. <i><b> 2024 25th International Conference on Electronic Packaging Technology (ICEPT)</b></i>. <<a
+href="https://ieeexplore.ieee.org/document/10668422">link</a>></li></ol>
 
 
 <ol start="24"> <li> <b>S. Liang</b>, W. Li, H. Jiang, Z. Guo, Z. Zhong, (2024). Effect of Phase Evolution on Inhomogeneous Deformation and Fracture Behavior in Sn-Bi Solder Alloys. <i><b> IEEE 2024 International Conference on Electronics Packaging (ICEP)</b></i>, 161-162. <<a
@@ -183,6 +189,7 @@ href="https://ieeexplore.ieee.org/abstract/document/10535626">link</a>></li></ol
 
 <ol start="23"> <li> H. Jiang, <b>S. Liang</b>, C. Liu, (2024). Simulation Study of Pore Structure Evolution and its Influences on the Properties of Sintered Silver. <i><b> IEEE 2024 International Conference on Electronics Packaging (ICEP)</b></i>, 159-160. <<a
 href="https://ieeexplore.ieee.org/abstract/document/10535609">link</a>></li></ol>
+
 
 
 
