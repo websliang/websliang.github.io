@@ -6,7 +6,6 @@ type: "Undergraduate course"
 permalink: /teaching/teaching-2
 author_profile: false
 venue: "Hefei University of Technology"
-date: false
 location: "China"
 ---
 Updating ...
