@@ -39,7 +39,7 @@ author_profile: false
 
 
 
-<ol start="28"> <li> L. Zhang, H. Zhao, <b>, S. Liang</b>, C. Liu, (2023). Heat transfer in phase change materials for integrated batteries and power electronics systems. <i><b>Applied Thermal Engineering</b></i>, 120997. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431123010268?casa_token=0LIdKms0-ZUAAAAA:vfgwLr-hZwUBA5OX33hJXSgbzaqzJfBG3tVcP1KNFhbaB4-j2X_myfvd1HnGyUNmgv4CBjmMNw">link</a>></li></ol>
+<ol start="28"> <li> L. Zhang, H. Zhao, <b>S. Liang</b>, C. Liu, (2023). Heat transfer in phase change materials for integrated batteries and power electronics systems. <i><b>Applied Thermal Engineering</b></i>, 120997. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431123010268?casa_token=0LIdKms0-ZUAAAAA:vfgwLr-hZwUBA5OX33hJXSgbzaqzJfBG3tVcP1KNFhbaB4-j2X_myfvd1HnGyUNmgv4CBjmMNw">link</a>></li></ol>
 
 
 
@@ -122,7 +122,7 @@ href="https://ieeexplore.ieee.org/document/9523548">link</a>></li></ol>
 ### 2020
 
 
-<ol start="9"> <li> C. Wei, B. Ke, <b>S. Liang</b>, S. Cao, H. Ma, X.P. Zhang, (2020). An improved phase field method by using statistical learning theory-based optimization algorithm for simulation of martensitic transformation in NiTi alloy. <i><b>Computational Materials Science</b></i>, 109292. <<a
+<ol start="9"> <li> C. Wei, C. Ke, <b>S. Liang</b>, S. Cao, H. Ma, X.P. Zhang, (2020). An improved phase field method by using statistical learning theory-based optimization algorithm for simulation of martensitic transformation in NiTi alloy. <i><b>Computational Materials Science</b></i>, 109292. <<a
 href="https://www.sciencedirect.com/science/article/pii/S0927025619305919">link</a>></li></ol>
 
 
