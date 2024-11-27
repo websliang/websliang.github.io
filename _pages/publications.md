@@ -19,7 +19,7 @@ author_profile: false
 ### 2024
 
 
-<ol start="33"> <li> H. Jiang, <b>S. Liang</b>, Y. Xu, S. Ramachandran, (2024). Investigation of Effects of Porosity and Coarsening on Thermal and Mechanical Properties of Sintered Silver Die Attachment. <i><b>IEEE Transactions on Electron Devices</b></i>, 71(9), 5603 - 5608. <<a href="https://ieeexplore.ieee.org/document/10589297">link</a>></li></ol>
+<ol start="33"> <li> H. Jiang, <b>S. Liang</b>, Y. Xu, S. Ramachandran, (2024). Investigation of Effects of Porosity and Coarsening on Thermal and Mechanical Properties of Sintered Silver Die Attachment. <i><b>IEEE Transactions on Electron Devices</b></i>, 71(9), 5603-5608. <<a href="https://ieeexplore.ieee.org/document/10589297">link</a>></li></ol>
 
 <ol start="32"> <li> <b>S. Liang</b>, H. Jiang, Z. Zhong, S. Ramachandran, (2024). Insights Into the Grain Orientation Effect on Electromigration-Induced Failure in Solder Interconnects Through Phase Field Modeling. <i><b>IEEE Transactions on Electron Devices</b></i>, 71, 192-199. <<a href="https://ieeexplore.ieee.org/abstract/document/10239697?casa_token=MdkCjVoYMO8AAAAA:2ecLNZSHgAmBkk7DTFfZX_w_33erna_w3knGwwcGyZSf-Rjme1xgt_2jKCmrKV69gqVk_T126g">link</a>></li></ol>
 
