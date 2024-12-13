@@ -7,17 +7,15 @@
   animation: intro 0.3s both;
   animation-delay: 0.15s;
   z-index: 20;
-  height: 3em; /* 设置导航栏高度为3em */
-  
+  height: 3em; /* 设置导航栏高度为 3em */
+  line-height: 3em; /* 设置行高为3em，确保文字垂直居中 */
   text-align: left; /* 确保文字左对齐 */
-  padding-top: 0.75em; /* 调整上内边距，确保文字垂直居中 */
-  padding-bottom: 0.75em; /* 调整下内边距，确保文字垂直居中 */
 }
 
 .masthead__inner-wrap {
   @include container;
   @include clearfix;
-  padding: 0 1em; /* 你可以根据需要调整内边距 */
+  padding: 0 1em; /* 根据需要调整内边距 */
   font-family: $sans-serif-narrow;
 
   @include breakpoint($x-large) {
