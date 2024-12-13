@@ -20,7 +20,7 @@ position: fixed; /* Change to fixed */
     height: 3em;
 
  display: flex; /* 启用flex布局 */
-
+  justify-content: flex-start; /* 左对齐 */
   align-items: center; /* 垂直居中 */
   
 
