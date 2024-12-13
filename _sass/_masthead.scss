@@ -12,6 +12,7 @@
   display: flex; /* 启用 flex 布局 */
   justify-content: flex-start; /* 左对齐 */
   align-items: center; /* 垂直居中 */
+  text-align: left; /* 确保文字左对齐 */
 }
 
 .masthead__inner-wrap {
