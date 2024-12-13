@@ -17,16 +17,15 @@
   @include clearfix;
   padding: 0 1em; /* 根据需要调整内边距 */
   font-family: $sans-serif-narrow;
+  height: 100%; /* 确保内包裹容器的高度与父容器一致 */
+  display: flex; /* 使用 flex 布局帮助垂直居中 */
+  align-items: center; /* 垂直居中 */
+}
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-  }
+nav {
+  z-index: 10;
+}
 
-  nav {
-    z-index: 10;
-  }
-
-  a {
-    text-decoration: none;
-  }
+a {
+  text-decoration: none;
 }
