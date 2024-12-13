@@ -9,8 +9,9 @@
   z-index: 20;
   height: 3em; /* 设置导航栏高度为3em */
   
-  line-height: 3em; /* 设置行高为3em，使文字垂直居中 */
   text-align: left; /* 确保文字左对齐 */
+  padding-top: 0.75em; /* 调整上内边距，确保文字垂直居中 */
+  padding-bottom: 0.75em; /* 调整下内边距，确保文字垂直居中 */
 }
 
 .masthead__inner-wrap {
