@@ -243,8 +243,8 @@
  href="https://ieeexplore.ieee.org/document/8429833">link</a>></li></ol> 
 
 
- <ol start="12"> <li> <b>S. Liang</b>, X.P. Zhang, C. Wei, C. Ke, C. Liu. Interaction effects between the preferred growth of ?-Sn grains and thermo-mechanical response in microbump interconnects under thermal cycling. <i><b>7th Electronic System-Integration Technology Conference (ESTC)</b></i>, 1-7, 2018. <<a 
- href="https://ieeexplore.href="https://ieeexplore.ieee.org/document/8546386">link</a>></li></ol> 
+ <ol start="12"> <li> <b>S. Liang</b>, X.P. Zhang, C. Wei, C. Ke, C. Liu. Interaction effects between the preferred growth of Sn grains and thermo-mechanical response in microbump interconnects under thermal cycling. <i><b>7th Electronic System-Integration Technology Conference (ESTC)</b></i>, 1-7, 2018. <<a 
+ href="https://ieeexplore.ieee.org/document/8546386">link</a>></li></ol> 
 
 
  <ol start="11"> <li> J. Zhou, C. Wei, <b>S. Liang</b>, H. Jiang, X. Ma, X.P. Zhang. Three-dimensional simulation of the effects of Cu protrusion of Cu-filled TSVs on thermal fatigue behavior of micro-bump joints in 3D integration. <i><b>19th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 361-366, 2018. <<a 
