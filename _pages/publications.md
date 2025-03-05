@@ -108,7 +108,7 @@
 
 
  <ol start="11"> <li> <b>S. Liang</b>, C. Wei, C. Ke. Effect of anisotropy in thermal conductivity on grain boundary migration under temperature gradient-A phase field study. <i><b>Materials Letters</b></i>, 130517, 2021. <<a 
- herf="https://www.sciencedirect.com/science/article/pii/S0167577X21012143">link</a>></li></ol> 
+ href="https://www.sciencedirect.com/science/article/pii/S0167577X21012143">link</a>></li></ol> 
 
 
  <ol start="10"> <li> <b>S. Liang</b>, Y. Zhong, S. Robertson, A. Liu, Z. Zhou, C. Liu. Thermo-mechanical characteristics and reliability of die-attach through self-propagating exothermic reaction bonding. <i><b>IEEE Transactions on Components, Packaging and Manufacturing Technology</b></i>, 2122-2129, 2021. <<a 
