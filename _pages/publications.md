@@ -38,7 +38,7 @@ author_profile: false
 
 <ol start="27"> <li> <b>S. Liang</b>, C. Wei, A. Kunwar, U. Subedi, H. Jiang, H. Ma, C. Ke, Phase field modelling combined with data-driven approach to unravel the orientation influenced growth of interfacial Cu6Sn5 intermetallics under electric current stressing. <i><b>Surfaces and Interfaces</b></i>, 2023, 37, 102728. <<a href="https://www.sciencedirect.com/science/article/abs/pii/S2468023023000986?casa_token=_LLVL2hDu2kAAAAA:ekn8-5F2JrnXOsKdzVUdjoDWF8d10gUDbZlxcEUCpbv2Ko7eWoea7JcP8-1-lzSehLll9YBStA">link</a>></li></ol>
 
-<ol start="26"> <li> <b>S. Liang</b>, X.P. Zhang, Unraveling the electric field effect on the grain‚?êboundary migration in alumina through phase field modeling. <i><b>Journal of the American Ceramic Society</b></i>, 2023, 106(3), 1647-1652. <<a href="https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/jace.18896?casa_token=Fau0R4nyP_oAAAAA:UXmYFmEhKzB7DtBiu8p40bH3O-I6-vOoGqet3MN20CkeDrc12jUj4_uV-ygXy19yk6oq_l1r2ODGoA">link</a>></li></ol>
+<ol start="26"> <li> <b>S. Liang</b>, X.P. Zhang, Unraveling the electric field effect on the grain boundary migration in alumina through phase field modeling. <i><b>Journal of the American Ceramic Society</b></i>, 2023, 106(3), 1647-1652. <<a href="https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/jace.18896?casa_token=Fau0R4nyP_oAAAAA:UXmYFmEhKzB7DtBiu8p40bH3O-I6-vOoGqet3MN20CkeDrc12jUj4_uV-ygXy19yk6oq_l1r2ODGoA">link</a>></li></ol>
 
 
 
