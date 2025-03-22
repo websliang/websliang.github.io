@@ -7,86 +7,70 @@ redirect_from:
 ---
 {% include base_path %}
 
-<div class="feature-news">
-#  <h1>Featured Article</h1>
+<div class="article-content">
   <h2>Emerging Trends & Key Markets in 2.5D and 3D Semiconductor Packaging</h2>
   <p class="date">March 22, 2025</p>
   
   <div class="feature-image">
-    <img src="{{ base_path }}/images/semiconductor-packaging.png" alt="Advanced semiconductor packaging illustration">
-    <p class="image-caption">Advanced semiconductor packaging technologies are enabling next-generation electronics.</p>
+    <img src="{{ base_path }}/images/semiconductor-packaging.png" alt="Advanced semiconductor packaging illustration" class="smaller-image">
+    <p class="image-caption">Advanced semiconductor packaging technologies are enabling next-generation electronics. Source: IDTechEx – "Advanced Semiconductor Packaging 2025-2035: Forecasts, Technologies, Applications"</p>
   </div>
   
-  <div class="article-content">
-    <p>The semiconductor industry continues to evolve rapidly with advanced packaging technologies becoming increasingly crucial for meeting the demands of modern applications. As traditional Moore's Law scaling faces physical and economic limitations, 2.5D and 3D packaging solutions are emerging as key enablers for continued performance improvements in the semiconductor industry.</p>
-    
-    <blockquote>
-      <p>"Advanced packaging technologies are no longer just alternatives to traditional scaling—they've become essential components of semiconductor roadmaps across the industry."</p>
-    </blockquote>
-    
-    <h3>The Rise of Heterogeneous Integration</h3>
-    
-    <p>Heterogeneous integration through advanced packaging is transforming how chips are designed and manufactured. By combining different types of dies in a single package, manufacturers can optimize performance, power consumption, and cost while overcoming the limitations of monolithic integration.</p>
-    
-    <p>Key trends in this space include:</p>
-    
-    <ul>
-      <li>Integration of logic, memory, analog, and RF components in a single package</li>
-      <li>Chiplet-based architectures allowing mix-and-match of IP blocks from different process nodes</li>
-      <li>Growing adoption of through-silicon vias (TSVs) and interposers for high-density interconnects</li>
-      <li>Development of hybrid bonding techniques for ultra-fine pitch connections</li>
-    </ul>
-    
-    <h3>Market Drivers and Applications</h3>
-    
-    <p>Several key markets are driving the adoption of advanced packaging technologies:</p>
-    
-    <h4>High-Performance Computing and AI</h4>
-    
-    <p>Data centers and AI applications demand unprecedented computational power while managing thermal and power constraints. Advanced packaging enables the integration of high-bandwidth memory (HBM) with processors, reducing latency and increasing memory bandwidth significantly compared to traditional packaging approaches.</p>
-    
-    <h4>Mobile and Consumer Electronics</h4>
-    
-    <p>The mobile market continues to push for smaller form factors, lower power consumption, and increased functionality. Fan-out wafer-level packaging (FOWLP) and system-in-package (SiP) technologies are enabling more compact and energy-efficient designs for smartphones, wearables, and other portable devices.</p>
-    
-    <h4>Automotive and Industrial</h4>
-    
-    <p>As vehicles become more autonomous and connected, the demand for high-reliability, high-performance electronics grows. Advanced packaging solutions help integrate sensors, processors, and memory in robust packages that can withstand harsh automotive environments.</p>
-    
-    <div class="source">
-      <p>This article is based on content from <a href="https://www.ept.ca/2024/11/emerging-trends-key-markets-in-2-5d-and-3d-semiconductor-packaging/" target="_blank">EPT.ca</a>.</p>
-    </div>
+  <p>The semiconductor industry continues to evolve rapidly with advanced packaging technologies becoming increasingly crucial for meeting the demands of modern applications. As traditional Moore's Law scaling faces physical and economic limitations, 2.5D and 3D packaging solutions are emerging as key enablers for continued performance improvements in the semiconductor industry.</p>
+  
+  <blockquote>
+    <p>"Advanced packaging technologies are no longer just alternatives to traditional scaling—they've become essential components of semiconductor roadmaps across the industry."</p>
+  </blockquote>
+  
+  <h3>The Rise of Heterogeneous Integration</h3>
+  
+  <p>Heterogeneous integration through advanced packaging is transforming how chips are designed and manufactured. By combining different types of dies in a single package, manufacturers can optimize performance, power consumption, and cost while overcoming the limitations of monolithic integration.</p>
+  
+  <p>Key trends in this space include:</p>
+  
+  <ul>
+    <li>Integration of logic, memory, analog, and RF components in a single package</li>
+    <li>Chiplet-based architectures allowing mix-and-match of IP blocks from different process nodes</li>
+    <li>Growing adoption of through-silicon vias (TSVs) and interposers for high-density interconnects</li>
+    <li>Development of hybrid bonding techniques for ultra-fine pitch connections</li>
+  </ul>
+  
+  <h3>Market Drivers and Applications</h3>
+  
+  <p>Several key markets are driving the adoption of advanced packaging technologies:</p>
+  
+  <h4>High-Performance Computing and AI</h4>
+  
+  <p>Data centers and AI applications demand unprecedented computational power while managing thermal and power constraints. Advanced packaging enables the integration of high-bandwidth memory (HBM) with processors, reducing latency and increasing memory bandwidth significantly compared to traditional packaging approaches.</p>
+  
+  <h4>Mobile and Consumer Electronics</h4>
+  
+  <p>The mobile market continues to push for smaller form factors, lower power consumption, and increased functionality. Fan-out wafer-level packaging (FOWLP) and system-in-package (SiP) technologies are enabling more compact and energy-efficient designs for smartphones, wearables, and other portable devices.</p>
+  
+  <h4>Automotive and Industrial</h4>
+  
+  <p>As vehicles become more autonomous and connected, the demand for high-reliability, high-performance electronics grows. Advanced packaging solutions help integrate sensors, processors, and memory in robust packages that can withstand harsh automotive environments.</p>
+  
+  <div class="source">
+    <p>This article is based on content from <a href="https://www.ept.ca/2024/11/emerging-trends-key-markets-in-2-5d-and-3d-semiconductor-packaging/" target="_blank">EPT.ca</a>.</p>
   </div>
-</div>
-
-<div class="archive-news">
-  <h2>News Archive</h2>
-  {% capture written_year %}'None'{% endcapture %}
-  {% for post in site.posts %}
-    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% if year != written_year %}
-      <h3 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h3>
-      {% capture written_year %}{{ year }}{% endcapture %}
-    {% endif %}
-    {% include archive-single.html %}
-  {% endfor %}
 </div>
 
 <style>
-  .feature-news {
-    margin-bottom: 3em;
-    padding-bottom: 2em;
-    border-bottom: 1px solid #c0c0c0;
+  .feature-news h1,
+  .archive-news {
+    display: none;
   }
   
-  .feature-news h1 {
-    color: #2a5db0;
-    margin-bottom: 0.5em;
+  .article-content {
+    margin-top: 2em;
   }
   
-  .feature-news h2 {
-    color: #333;
-    margin-top: 0;
+  .smaller-image {
+    max-width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
   }
   
   .date {
@@ -99,15 +83,11 @@ redirect_from:
     margin: 1.5em 0;
   }
   
-  .feature-image img {
-    max-width: 100%;
-    height: auto;
-  }
-  
   .image-caption {
     font-size: 0.9em;
     color: #666;
     margin-top: 0.5em;
+    text-align: center;
   }
   
   blockquote {
@@ -123,10 +103,5 @@ redirect_from:
     color: #666;
     border-top: 1px solid #eee;
     padding-top: 1em;
-  }
-  
-  .archive-news h2 {
-    color: #2a5db0;
-    margin-bottom: 1em;
   }
 </style>
