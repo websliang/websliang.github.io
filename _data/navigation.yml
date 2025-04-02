@@ -11,10 +11,4 @@ main:
     url: /talks/    
 
   - title: "TEACHING"
-    url: /teaching/    
-  
-  - title: "NEWS"
-    url: /news/
-    
-
-    
+    url: /teaching/
