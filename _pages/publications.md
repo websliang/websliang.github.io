@@ -116,6 +116,10 @@ author_profile: false
 
 ### 2024
 
+<ol start="27"> <li> Y. Wei, L. Zhang, S. Li, H. Jiang, Z. Zhong, Y. Xu, <b>S. Liang*</b>, Unraveling Grain Boundary Migration and Evolution of the Cu-Cu bonding Structure Driven by Thermo-mechanical Stress. <i><b>IEEE 26th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 1–5, 2025. <<a href="https://ieeexplore.ieee.org/document/11156990">link</a>></li></ol>
+
+<ol start="26"> <li> Z. Guo, Z. Li, S. Li, H. Jiang, Z. Zhong, Y. Xu, <b>S. Liang*</b>, Investigating the Effect of Temperature Gradients on Crack Propagation and Performance Degradation of SiC Power Modules with Sintered Silver Die Attach. <i><b>IEEE 26th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 1–5, 2025. <<a href="https://ieeexplore.ieee.org/document/11157294">link</a>></li></ol>
+
 <ol start="25"> <li> Z. Guo, <b>S. Liang</b>, H. Jiang, Z. Zhong, K. Song, Y. Xu, Effect of Sintered Silver Phase Coarsening on the Fatigue Characteristics of SiC Power Modules. <i><b>IEEE 25th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 2024. <<a href="https://ieeexplore.ieee.org/document/10668422">link</a>></li></ol>
 
 <ol start="24"> <li> <b>S. Liang</b>, W. Li, H. Jiang, Z. Guo, Z. Zhong, Effect of Phase Evolution on Inhomogeneous Deformation and Fracture Behavior in Sn-Bi Solder Alloys. <i><b>IEEE 2024 International Conference on Electronics Packaging (ICEP)</b></i>, 2024, 161-162. <<a href="https://ieeexplore.ieee.org/abstract/document/10535626">link</a>></li></ol>
