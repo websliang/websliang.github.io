@@ -116,9 +116,9 @@ author_profile: false
 
 ### 2025
 
-<ol start="27"> <li> Y. Wei, L. Zhang, S. Li, H. Jiang, Z. Zhong, Y. Xu, <b>S. Liang*</b>, Unraveling Grain Boundary Migration and Evolution of the Cu-Cu bonding Structure Driven by Thermo-mechanical Stress. <i><b>IEEE 26th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 1–5, 2025. <<a href="https://ieeexplore.ieee.org/document/11156990">link</a>></li></ol>
+<ol start="27"> <li> Y. Wei, L. Zhang, S. Li, H. Jiang, Z. Zhong, Y. Xu, <b>S. Liang</b>, Unraveling Grain Boundary Migration and Evolution of the Cu-Cu bonding Structure Driven by Thermo-mechanical Stress. <i><b>IEEE 26th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 1–5, 2025. <<a href="https://ieeexplore.ieee.org/document/11156990">link</a>></li></ol>
 
-<ol start="26"> <li> Z. Guo, Z. Li, S. Li, H. Jiang, Z. Zhong, Y. Xu, <b>S. Liang*</b>, Investigating the Effect of Temperature Gradients on Crack Propagation and Performance Degradation of SiC Power Modules with Sintered Silver Die Attach. <i><b>IEEE 26th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 1–5, 2025. <<a href="https://ieeexplore.ieee.org/document/11157294">link</a>></li></ol>
+<ol start="26"> <li> Z. Guo, Z. Li, S. Li, H. Jiang, Z. Zhong, Y. Xu, <b>S. Liang</b>, Investigating the Effect of Temperature Gradients on Crack Propagation and Performance Degradation of SiC Power Modules with Sintered Silver Die Attach. <i><b>IEEE 26th International Conference on Electronic Packaging Technology (ICEPT)</b></i>, 1–5, 2025. <<a href="https://ieeexplore.ieee.org/document/11157294">link</a>></li></ol>
 
 ### 2024
 
